@@ -1,0 +1,6 @@
+train: /Users/jagdishsonigra/PycharmProjects/PBEL/train/images
+val: /Users/jagdishsonigra/PycharmProjects/PBEL/valid/images
+test: /Users/jagdishsonigra/PycharmProjects/PBEL/test/images
+
+nc: 1
+names: ['Damage']
