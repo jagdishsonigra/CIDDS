@@ -13,7 +13,7 @@ The **Container Identification and Damage Detection System (CIDDS)** is an AI-ba
 
 Manual inspection is slow and error-prone. CIDDS provides a **fast, accurate, and scalable software-only solution**.
 
-📄 Based on project proposal (DES Pune University)
+
 
 ---
 
